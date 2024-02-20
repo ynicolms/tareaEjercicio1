@@ -17,9 +17,8 @@ Dírigete al archivo llamado "about me" y realiza una página con información t
 
 *Escribe la estructura básica de un documento HTML. Utiliza etiquetas semánticas.
 *El título de tu página debe ser "Acerca de mí",
-*En el encabezado principal <h1> debe ir tu nombre.
+*En el encabezado principal debe ir tu nombre.
 *Debes colocar una foto tuya que te guste mucho.
-*Haz una breve biografía tuya en un párrafo <p>
-*Coloca un encabezado para tus hobbies y en esa parte agrégalos en una lista desordenada <ul>.
-*Una sección de tu música favorita con una lista ordenada <ol> con tu top 5 de canciones favoritas del momento. Cada elemento de la lista debe tener un hipervínculo que dirija a la canción en Youtube.
-*Crea una lista descriptiva, donde expliques los siguientes términos: function, let, const y tres etiquetas de html que no hayamos visto en sesión.
+*Haz una breve biografía tuya en un párrafo.
+*Coloca un encabezado para tus hobbies y en esa parte agrégalos en una lista desordenada.
+*Una sección de tu música favorita con una lista ordenada con tu top 5 de canciones favoritas del momento. Cada elemento de la lista debe tener un hipervínculo que dirija a la canción en Youtube.
